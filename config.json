@@ -12,7 +12,8 @@
     "o3-",
     "o3",
     "o4-",
-    "deepseek-"
+    "deepseek-",
+    "text-embedding-"
   ],
   "exclude_patterns": [
     "sample_spec"
@@ -456,9 +457,9 @@
     },
     "glm-5": {
       "_comment": "BigModel China public API pricing converted at the Ccode fixed rate 1 USD = 6.7841 CNY. The provider lists cache storage as temporarily free; that time-limited storage promotion is not encoded as a permanent token price.",
-      "input_cost_per_token": 5.896139502660633e-07,
+      "input_cost_per_token": 5.896139502660634e-07,
       "output_cost_per_token": 2.653262776197285e-06,
-      "cache_creation_input_token_cost": 5.896139502660633e-07,
+      "cache_creation_input_token_cost": 5.896139502660634e-07,
       "cache_read_input_token_cost": 1.474034875665158e-07,
       "long_context_input_token_threshold": 32000,
       "long_context_threshold_inclusive": true,
@@ -471,9 +472,9 @@
             0,
             32000
           ],
-          "input_cost_per_token": 5.896139502660633e-07,
+          "input_cost_per_token": 5.896139502660634e-07,
           "output_cost_per_token": 2.653262776197285e-06,
-          "cache_creation_input_token_cost": 5.896139502660633e-07,
+          "cache_creation_input_token_cost": 5.896139502660634e-07,
           "cache_read_input_token_cost": 1.474034875665158e-07
         },
         {
